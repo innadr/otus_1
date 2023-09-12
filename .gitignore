@@ -1,5 +1,5 @@
 # created by virtualenv automatically
-/.idea/
-/pytest/
-/__pycache__/
-
+.idea/
+pytest/
+__pycache__/
+venv/
